@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!/sublime-text-3/
+!/sublime-text-3/**
+!.gitignore
+
